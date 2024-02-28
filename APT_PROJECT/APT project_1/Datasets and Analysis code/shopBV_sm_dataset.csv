@@ -1,0 +1,337 @@
+Title,Price,Operating_system,Display_diagonal,Memory,Main_Camera,Front_Camera,Manufacturer,Features,Color
+"Смартфон Xiaomi Mi 11 Lite 5G NE, 6Gb, 128Gb, Truffle Black (2109119DG)",179990,Android,6.55,128 Гб,64 + 8 + 5,20,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон Xiaomi Mi 11 Lite 5G NE, 8Gb, 128Gb, Bubblegum Blue (2109119DG)",189990,Android,6.55,128 Гб,64 + 8 + 5,20,Xiaomi,Corning Gorilla Glass 5,"Синий, Черный"
+"Смартфон Samsung Galaxy Z Flip3 5G, 128Gb, Phantom Black (SM-F711B)",516900,Android,6.7,128 Гб,12 + 12,10,Samsung,Corning Gorilla Glass Victus,Черный
+"Смартфон Xiaomi Mi 11 Lite 5G NE, 8Gb, 256Gb, Truffle Black (2109119DG)",209990,Android,6.55,256 Гб,64 + 8 + 5,20,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон Xiaomi Mi 11 Lite 5G NE, 8Gb, 128Gb, Truffle Black (2109119DG)",189990,Android,6.55,128 Гб,64 + 8 + 5,20,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон Samsung Galaxy Z Flip3 5G, 256Gb, Lavender (SM-F711B)",545100,Android,6.7,256 Гб,12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Фиолетовый, Черный"
+"Смартфон Samsung Galaxy Z Fold3 5G, 256Gb, Phantom Silver (SM-F926B)",845900,Android,6.2,256 Гб,12 + 12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Серебристый, Черный"
+"Смартфон Samsung Galaxy Z Fold3 5G, 512Gb, Phantom Silver (SM-F926B)",939900,Android,6.2,512 Гб,12 + 12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Серебристый, Черный"
+"Смартфон Samsung Galaxy Z Fold3 5G, 512Gb, Phantom Black (SM-F926B)",939900,Android,6.2,512 Гб,12 + 12 + 12,10,Samsung,Corning Gorilla Glass Victus,Черный
+"Смартфон Samsung Galaxy Z Flip3 5G, 128Gb, Lavender (SM-F711B)",516900,Android,6.7,128 Гб,12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Фиолетовый, Черный"
+"Смартфон Infinix HOT 10i, 32Gb, Black (PR652B)",49990,Android,6.52,32 Гб,13 + AI,8,Infinix,,Черный
+"Смартфон Samsung Galaxy Z Fold3 5G, 256Gb, Phantom Black (SM-F926B)",845900,Android,6.2,256 Гб,12 + 12 + 12,10,Samsung,Corning Gorilla Glass Victus,Черный
+"Смартфон Samsung Galaxy Z Flip3 5G, 128Gb, Cream (SM-F711B)",516900,Android,6.7,128 Гб,12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Бежевый, Черный"
+"Смартфон Samsung Galaxy Z Flip3 5G, 256Gb, Cream (SM-F711B)",545100,Android,6.7,256 Гб,12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Бежевый, Черный"
+"Смартфон Samsung Galaxy Z Flip3 5G, 256Gb, Green (SM-F711B)",545100,Android,6.7,256 Гб,12 + 12,10,Samsung,Corning Gorilla Glass Victus,"Зеленый, Черный"
+"Смартфон Infinix HOT 10T, 128Gb, Morandi Green (X689C)",77990,Android,6.82,128 Гб,48 + 2 + AI,8,Infinix,,"Зеленый, Черный"
+"Смартфон Infinix HOT 10i, 32Gb, Mist Copper (PR652B)",49990,Android,6.52,32 Гб,13 + AI,8,Infinix,,"Золотистый, Черный"
+"Смартфон Infinix HOT 10T, 128Gb, Purple (X689C)",77990,Android,6.82,128 Гб,48 + 2 + AI,8,Infinix,,"Фиолетовый, Черный"
+"Смартфон Infinix HOT 10T, 128Gb, Blue (X689C)",77990,Android,6.82,128 Гб,48 + 2 + AI,8,Infinix,,"Голубой, Черный"
+"Смартфон Infinix HOT 10i, 32Gb, Blue (PR652B)",49990,Android,6.52,32 Гб,13 + AI,8,Infinix,,"Синий, Черный"
+"Смартфон Infinix HOT 10i, 32Gb, Morandi Green (PR652B)",49990,Android,6.52,32 Гб,13 + AI,8,Infinix,,"Зеленый, Черный"
+"Смартфон Infinix Note 10, 128Gb, Black (X693)",91990,Android,6.95,128 Гб,48 + 2 + 2 + AI,16,Infinix,,Черный
+"Смартфон Infinix Note 10, 128Gb, Purple (X693)",91990,Android,6.95,128 Гб,48 + 2 + 2 + AI,16,Infinix,,"Фиолетовый, Черный"
+"Смартфон Infinix HOT 10T, 128Gb, Black (X689C)",77990,Android,6.82,128 Гб,48 + 2 + AI,8,Infinix,,Черный
+"Смартфон Infinix HOT 10 Lite, 64Gb, Midnight Black (X657B)",57990,Android,6.6,64 Гб,13 + AI,8,Infinix,,Черный
+"Смартфон Infinix HOT 10 Play, 64Gb, Obsidian Black (X688B)",63990,Android,6.82,64 Гб,13 + AI,8,Infinix,,Черный
+"Смартфон Infinix HOT 10 Play, 64Gb, Purple (X688B)",63990,Android,6.82,64 Гб,13 + AI,8,Infinix,,"Фиолетовый, Черный"
+"Смартфон Infinix HOT 10 Play, 64Gb, Morandi Green (X688B)",63990,Android,6.82,64 Гб,13 + AI,8,Infinix,,"Зеленый, Черный"
+"Смартфон Infinix HOT 10 Lite, 32Gb, Midnight Black (X657B)",47990,Android,6.6,32 Гб,13 + AI,8,Infinix,,Черный
+"Смартфон Infinix HOT 10 Play, 64Gb, Aegean Blue (X688B)",63990,Android,6.82,64 Гб,13 + AI,8,Infinix,,"Синий, Черный"
+"Смартфон Samsung Galaxy A03s, 64Gb, Black (SM-A037F)",73200,Android,6.5,64 Гб,13 + 2 + 2,5,Samsung,,Черный
+"Смартфон Samsung Galaxy A03s, 32Gb, White (SM-A037F)",63800,Android,6.5,32 Гб,13 + 2 + 2,5,Samsung,,Белый
+"Смартфон Samsung Galaxy A03s, 32Gb, Blue (SM-A037F)",63800,Android,6.5,32 Гб,13 + 2 + 2,5,Samsung,,"Голубой, Черный"
+"Смартфон Samsung Galaxy A03s, 64Gb, Blue (SM-A037F)",73200,Android,6.5,64 Гб,13 + 2 + 2,5,Samsung,,"Голубой, Черный"
+"Смартфон Xiaomi Redmi 10, 6Gb, 128Gb, Pebble White (21061119AG)",109990,Android,6.5,128 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,Белый
+"Смартфон Xiaomi Redmi 10, 4Gb, 64Gb, Pebble White (21061119AG)",79990,Android,6.5,64 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,Белый
+"Смартфон Xiaomi Redmi 10, 4Gb, 128b, Carbon Gray (21061119AG)",99990,Android,6.5,128 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Серый, Черный"
+"Смартфон Xiaomi Redmi 10, 4Gb, 64b, Carbon Gray (21061119AG)",79990,Android,6.5,64 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Серый, Черный"
+"Смартфон Xiaomi Redmi 10, 4Gb, 128Gb, Pebble White (21061119AG)",99990,Android,6.5,128 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,Белый
+"Смартфон Samsung Galaxy A03s, 32Gb, Black (SM-A037F)",63800,Android,6.5,32 Гб,13 + 2 + 2,5,Samsung,,Черный
+"Смартфон Samsung Galaxy A72, 128Gb, Violet (SM-A725F)",182200,Android,6.7,128 Гб,64 + 12 + 8 + 5,32,Samsung,,"Фиолетовый, Черный"
+"Смартфон Xiaomi Redmi 10, 4Gb, 64Gb, Sea Blue (21061119AG)",79990,Android,6.5,64 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Белый, Голубой"
+"Смартфон Samsung Galaxy A12, 64Gb, Blue (SM-A127F)",75100,Android,6.5,64 Гб,48 + 5 + 2 + 2,8,Samsung,,"Голубой, Черный"
+"Смартфон Samsung Galaxy A12, 64Gb, Black (SM-A127F)",75100,Android,6.5,64 Гб,48 + 5 + 2 + 2,8,Samsung,,Черный
+"Смартфон Samsung Galaxy A12, 64Gb, Red (SM-A127F)",79800,Android,6.5,64 Гб,48 + 5 + 2 + 2,8,Samsung,,"Красный, Черный"
+"Смартфон Samsung Galaxy A22, 64Gb, Mint (SM-A225F)",89990,Android,6.4,64 Гб,48 + 8 + 2 + 2,13,Samsung,,"Зеленый, Черный"
+"Смартфон Samsung Galaxy A12, 32Gb, Black (SM-A127F)",69990,Android,6.5,32 Гб,48 + 5 + 2 + 2,8,Samsung,,Черный
+"Смартфон realme C21Y, 32Gb, Blue (RMX3261)",56300,Android,6.5,32 Гб,13 + 2 + 2,5,realme,,"Голубой, Черный"
+"Смартфон Xiaomi Redmi 10, 4Gb, 128Gb, Sea Blue (21061119AG)",99990,Android,6.5,128 Гб,50 + 8 + 2 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Белый, Голубой"
+"Смартфон Samsung Galaxy A22, 128Gb, Mint (SM-A225F)",99500,Android,6.4,128 Гб,48 + 8 + 2 + 2,13,Samsung,,"Зеленый, Черный"
+"Смартфон realme C21Y, 32Gb, Black (RMX3261)",56300,Android,6.5,32 Гб,13 + 2 + 2,5,realme,,Черный
+"Смартфон Samsung Galaxy A22, 64Gb, White (SM-A225F)",89990,Android,6.4,64 Гб,48 + 8 + 2 + 2,13,Samsung,,Белый
+"Смартфон realme C21Y, 64Gb, Blue (RMX3261)",69990,Android,6.5,64 Гб,13 + 2 + 2,5,realme,,"Голубой, Черный"
+"Смартфон realme C21Y, 64Gb, Black (RMX3261)",69990,Android,6.5,64 Гб,13 + 2 + 2,5,realme,,Черный
+"Смартфон Samsung Galaxy A12, 32Gb, Red (SM-A127F)",69990,Android,6.5,32 Гб,48 + 5 + 2 + 2,8,Samsung,,"Красный, Черный"
+"Смартфон Samsung Galaxy A12, 32Gb, Blue (SM-A127F)",69990,Android,6.5,32 Гб,48 + 5 + 2 + 2,8,Samsung,,"Голубой, Черный"
+"Смартфон Samsung Galaxy A72, 128Gb, White (SM-A725F)",183200,Android,6.7,128 Гб,64 + 12 + 8 + 5,32,Samsung,,"Белый, Черный"
+"Смартфон Xiaomi Redmi 9C, 128Gb, Midnight Gray (M2006C3MG)",69990,Android,6.53,128 Гб,13 + 2 + 2,5,Xiaomi,,Черный
+"Смартфон Samsung Galaxy A22, 128Gb, Black (SM-A225F)",99500,Android,6.4,128 Гб,48 + 8 + 2 + 2,13,Samsung,,Черный
+"Смартфон Samsung Galaxy A22, 64Gb, Black (SM-A225F)",89990,Android,6.4,64 Гб,48 + 8 + 2 + 2,13,Samsung,,Черный
+"Смартфон OnePlus Nord N100, 64Gb, Midnight Frost (BE2013)",69900,Android,6.52,64 Гб,13 + 2 + 2,8,OnePlus,Corning Gorilla Glass 3,"Серый, Черный"
+"Смартфон Apple iPhone 12, 256Gb, White (MGJH3)",519900,iOS,6.1,256 Гб,12 + 12,12,Apple,,"Белый, Черный"
+"Смартфон Apple iPhone 12, 256Gb, Purple (MJNQ3)",519900,iOS,6.1,256 Гб,12 + 12,12,Apple,,"Фиолетовый, Черный"
+"Смартфон Apple iPhone 12, 256Gb, Black (MGJG3)",519900,iOS,6.1,256 Гб,12 + 12,12,Apple,,Черный
+"Смартфон Apple iPhone 12, 64Gb, Purple (MJNM3)",434890,iOS,6.1,64 Гб,12 + 12,12,Apple,Ceramic Shield,"Фиолетовый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 512Gb, Silver (MGDH3)",789990,iOS,6.7,512 Гб,12 + 12 + 12,12,Apple,,"Серебристый, Черный"
+"Смартфон Poco F3, 128Gb, Night Black (M2012K11AG)",179990,Android,6.67,128 Гб,48 + 8 + 5,20,Poco,Corning Gorilla Glass 5,Черный
+"Смартфон Apple iPhone 12 Pro, 512Gb, Gold (MGMW3)",714300,iOS,6.1,512 Гб,12 + 12 + 12,12,Apple,,"Золотистый, Черный"
+"Смартфон Poco M3 Pro 5G, 128Gb, Power Black",109990,Android,6.5,128 Гб,48 + 2 + 2,8,Poco,Corning Gorilla Glass 3,Черный
+"Смартфон Xiaomi Redmi Note 10 5G, 4Gb, 64Gb, Aurora Green (M2103K19G)",99990,Android,6.5,64 Гб,48 + 2 + 2,8,Xiaomi,,"Зеленый, Черный"
+"Смартфон Poco F3, 256Gb, Arctic White",199990,Android,6.67,256 Гб,48 + 8 + 5,20,Poco,Corning Gorilla Glass 5,"Белый, Черный"
+"Смартфон Xiaomi Mi 11 Lite 5G, 8Gb, 128Gb, Truffle Black (M2101K9G)",199990,Android,6.55,128 Гб,64 + 8 + 5,20,Xiaomi,Corning Gorilla Glass 6,Черный
+"Смартфон Tecno Camon 16, 128Gb, Misty Grey (CE7j)",89990,Android,6.8,128 Гб,48 + 2 + 2 + AI,16,Tecno Mobile,,"Серый, Черный"
+"Смартфон Tecno Pova, 128Gb, Speed Purple (LD7)",82000,Android,6.8,128 Гб,13 + 2 + 2 + AI,8,Tecno Mobile,,"Фиолетовый, Черный"
+"Смартфон Tecno Pova, 128Gb, Magic Blue (LD7)",82000,Android,6.8,128 Гб,13 + 2 + 2 + AI,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno POP 4, 32Gb, Ice Lake Green (BC2c)",37200,Android,6,32 Гб,5,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Apple iPhone SE (2020), 128Gb, Black (MHGT3)",254990,iOS,4.7,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,Черный
+"Смартфон Tecno POP 4, 32Gb, Dawn Blue (BC2c)",37200,Android,6,32 Гб,5,8,Tecno Mobile,,"Синий, Фиолетовый, Черный"
+"Смартфон Tecno Pova, 128Gb, Dazzle Black (LD7)",82000,Android,6.8,128 Гб,13 + 2 + 2 + AI,8,Tecno Mobile,,"Красный, Черный"
+"Смартфон Apple iPhone 12, 128Gb, Purple (MJNP3)",464890,iOS,6.1,128 Гб,12 + 12,12,Apple,,"Фиолетовый, Черный"
+"Смартфон Apple iPhone 12 Pro, 128Gb, Silver (MGML3)",579990,iOS,6.1,128 Гб,12 + 12 + 12,12,Apple,,"Серебристый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 512Gb, Graphite (MGDG3)",789990,iOS,6.7,512 Гб,12 + 12 + 12,12,Apple,,"Графитовый, Черный"
+"Смартфон realme 8 Pro, 128Gb, Black (RMX3081)",149990,Android,6.4,128 Гб,108 + 8 + 2 + 2,16,realme,,Черный
+"Смартфон Poco F3, 128Gb, Deep Ocean Blue",179990,Android,6.67,128 Гб,48 + 8 + 5,20,Poco,Corning Gorilla Glass 5,"Голубой, Черный"
+"Смартфон Xiaomi Mi 11, 8Gb, 256Gb, Midnight Gray",399990,Android,6.81,256 Гб,108 + 13 + 5,20,Xiaomi,Corning Gorilla Glass Victus,Черный
+"Смартфон Xiaomi Mi 11, 8Gb, 256Gb, Horizon Blue",399990,Android,6.81,256 Гб,108 + 13 + 5,20,Xiaomi,Corning Gorilla Glass Victus,"Голубой, Черный"
+"Смартфон Poco M3 Pro 5G, 64Gb, Power Black",89990,Android,6.5,64 Гб,48 + 2 + 2,8,Poco,Corning Gorilla Glass 3,Черный
+"Смартфон Apple iPhone 12 Pro Max, 512Gb, Pacific Blue (MGDL3)",789990,iOS,6.7,512 Гб,12 + 12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 12 Pro, 512Gb, Graphite (MGMU3)",739990,iOS,6.1,512 Гб,12 + 12 + 12,12,Apple,,"Графитовый, Черный"
+"Смартфон Apple iPhone 12 Pro, 512Gb, Pacific Blue (MGMX3)",749900,iOS,6.1,512 Гб,12 + 12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон realme C25, 4Gb, 64Gb, Black (RMX3191)",79990,Android,6.5,64 Гб,48 + 2 + 2,8,realme,,Черный
+"Смартфон realme C11 (2021), 2Gb/32Gb, Blue (RMX3231)",49990,Android,6.5,32 Гб,8,5,realme,,Голубой
+"Смартфон OPPO Reno5 Lite, 128Gb, Black (CPH2205)",139990,Android,6.43,128 Гб,48 + 8 + 2 + 2,32,OPPO,,Черный
+"Смартфон OPPO Reno5 Lite, 128Gb, Purple (CPH2205)",142490,Android,6.43,128 Гб,48 + 8 + 2 + 2,32,OPPO,,"Фиолетовый, Черный"
+"Смартфон realme C11 (2021), 2Gb/32Gb, Gray (RMX3231)",49990,Android,6.5,32 Гб,8,5,realme,,Серый
+"Смартфон OPPO A74, 128Gb, Blue (CPH2219)",119990,Android,6.43,128 Гб,48 + 2 + 2,16,OPPO,,Черный
+"Смартфон OPPO A74, 128Gb, Black (CPH2219)",119990,Android,6.43,128 Гб,48 + 2 + 2,16,OPPO,,Черный
+"Смартфон OPPO A15s, 64Gb, Blue (CPH2179)",68990,Android,6.52,64 Гб,13 + 2 + 2,8,OPPO,,"Синий, Черный"
+"Смартфон OPPO A54, 64Gb, Black (CPH2239)",94900,Android,6.51,64 Гб,13 + 2 + 2,16,OPPO,,Черный
+"Смартфон OPPO A54, 64Gb, Blue (CPH2239)",94900,Android,6.51,64 Гб,13 + 2 + 2,16,OPPO,,"Голубой, Синий, Черный"
+"Смартфон OPPO A15s, 64Gb, Black (CPH2179)",64990,Android,6.52,64 Гб,13 + 2 + 2,8,OPPO,,Черный
+"Смартфон Xiaomi Redmi Note 10S, 6Gb, 128Gb, Pebble White",119990,Android,6.43,128 Гб,64 + 8 + 2 + 2,13,Xiaomi,,"Серый, Черный"
+"Смартфон Xiaomi Redmi Note 10S, 6Gb, 64Gb, Ocean Blue",109990,Android,6.43,64 Гб,64 + 8 + 2 + 2,13,Xiaomi,,"Белый, Голубой, Черный"
+"Смартфон Xiaomi Redmi Note 10S, 6Gb, 128Gb, Ocean Blue",119990,Android,6.43,128 Гб,64 + 8 + 2 + 2,13,Xiaomi,,"Белый, Голубой, Черный"
+"Смартфон Xiaomi Redmi Note 10S, 6Gb, 64Gb, Onyx Gray",109990,Android,6.43,64 Гб,64 + 8 + 2 + 2,13,Xiaomi,,"Серый, Черный"
+"Смартфон Xiaomi Redmi Note 10S, 6Gb, 64Gb, Pebble White",109990,Android,6.43,64 Гб,64 + 8 + 2 + 2,13,Xiaomi,,"Серый, Черный"
+"Смартфон Xiaomi Redmi Note 10S, 6Gb, 128Gb, Onyx Gray",119990,Android,6.43,128 Гб,64 + 8 + 2 + 2,13,Xiaomi,,"Серый, Черный"
+"Смартфон Xiaomi Mi 11 Lite, 6Gb, 128Gb, Peach Pink (M2101K9AG)",149990,Android,6.55,128 Гб,64 + 8 + 5,16,Xiaomi,Corning Gorilla Glass 5,"Розовый, Черный"
+"Смартфон Xiaomi Mi 11 Lite, 6Gb, 128Gb, Bubblegum Blue (M2101K9AG)",149990,Android,6.55,128 Гб,64 + 8 + 5,16,Xiaomi,Corning Gorilla Glass 5,"Голубой, Черный"
+"Смартфон Apple iPhone Xr (2020), 128Gb, Red (MH7N3)",319500,iOS,6.1,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,Красный
+"Смартфон Apple iPhone Xr (2020), 128Gb, Black (MH7L3)",319500,iOS,6.1,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,Черный
+"Смартфон Apple iPhone Xr (2020), 128Gb, White (MH7M3)",319500,iOS,6.1,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,Белый
+"Смартфон Apple iPhone SE (2020), 128Gb, White (MHGU3)",254990,iOS,4.7,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,"Белый, Черный"
+"Смартфон Apple iPhone SE (2020), 128Gb, Red (MHGV3)",254990,iOS,4.7,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,"Красный, Черный"
+"Смартфон Poco X3 Pro, 128Gb, Metal Bronze",119990,Android,6.67,128 Гб,48 + 8 + 2 + 2,20,Poco,Corning Gorilla Glass 6,Бронзовый
+"Смартфон Poco X3 Pro, 256Gb, Phantom Black",129990,Android,6.67,256 Гб,48 + 8 + 2 + 2,20,Poco,Corning Gorilla Glass 6,Черный
+"Смартфон Poco X3 Pro, 256Gb, Frost Blue",129990,Android,6.67,256 Гб,48 + 8 + 2 + 2,20,Poco,Corning Gorilla Glass 6,Синий
+"Смартфон Poco X3 Pro, 128Gb, Frost Blue",119990,Android,6.67,128 Гб,48 + 8 + 2 + 2,20,Poco,Corning Gorilla Glass 6,Синий
+"Смартфон Poco X3 Pro, 128Gb, Phantom Black",119990,Android,6.67,128 Гб,48 + 8 + 2 + 2,20,Poco,Corning Gorilla Glass 6,Черный
+"Смартфон realme 7, 6Gb, 64Gb, Mist Blue (RMX2151)",108890,Android,6.5,64 Гб,64 + 8 + 2 + 2,16,realme,Corning Gorilla Glass,"Синий, Черный"
+"Смартфон Samsung Galaxy A12, 64Gb, Blue (SM-A125F)",76900,Android,6.5,64 Гб,48 + 5 + 2 + 2,8,Samsung,,"Синий, Черный"
+"Смартфон Samsung Galaxy A02, 32Gb, Red (SM-A022G)",49890,Android,6.5,32 Гб,13 + 2,5,Samsung,,"Красный, Черный"
+"Смартфон Xiaomi Mi 11 Lite, 128Gb, Bubblegum Blue (M2101K9AG)",159990,Android,6.55,128 Гб,64 + 8 + 5,16,Xiaomi,Corning Gorilla Glass 5,"Голубой, Черный"
+"Смартфон Samsung Galaxy A32, 64Gb, Awesome White (SM-A325F)",106990,Android,6.4,64 Гб,64 + 8 + 5 + 5,20,Samsung,,"Белый, Черный"
+"Смартфон Samsung Galaxy A32, 128Gb, Awesome White (SM-A325F)",123590,Android,6.4,128 Гб,64 + 8 + 5 + 5,20,Samsung,,"Белый, Черный"
+"Смартфон Samsung Galaxy A32, 64Gb, Awesome Blue (SM-A325F)",106990,Android,6.4,64 Гб,64 + 8 + 5 + 5,20,Samsung,,"Голубой, Черный"
+"Смартфон Samsung Galaxy A32, 64Gb, Awesome Violet (SM-A325F)",106990,Android,6.4,64 Гб,64 + 8 + 5 + 5,20,Samsung,,"Фиолетовый, Черный"
+"Смартфон Samsung Galaxy A32, 128Gb, Awesome Violet (SM-A325F)",129700,Android,6.4,128 Гб,64 + 8 + 5 + 5,20,Samsung,,"Фиолетовый, Черный"
+"Смартфон Samsung Galaxy A32, 64Gb, Awesome Black (SM-A325F)",106990,Android,6.4,64 Гб,64 + 8 + 5 + 5,20,Samsung,,Черный
+"Смартфон Samsung Galaxy A32, 128Gb, Awesome Black (SM-A325F)",119990,Android,6.4,128 Гб,64 + 8 + 5 + 5,20,Samsung,,Черный
+"Смартфон Meizu M10, 2Gb, 32Gb, Purplish Red (M918H)",49990,Android,6.5,32 Гб,13 + 2 + 2,8,Meizu,,"Красный, Черный"
+"Смартфон Samsung Galaxy A32, 128Gb, Awesome Blue (SM-A325F)",119990,Android,6.4,128 Гб,64 + 8 + 5 + 5,20,Samsung,,"Голубой, Черный"
+"Смартфон Meizu M10, 2Gb, 32Gb, Phantom Black (M918H)",49990,Android,6.5,32 Гб,13 + 2 + 2,8,Meizu,,Черный
+"Смартфон Meizu M10, 2Gb, 32Gb, Sea Blue (M918H)",49990,Android,6.5,32 Гб,13 + 2 + 2,8,Meizu,,"Голубой, Черный"
+"Смартфон Xiaomi Redmi Note 10, 128Gb, Pebble White",109990,Android,6.43,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 3,"Белый, Черный"
+"Смартфон Xiaomi Redmi Note 10, 128Gb, Lake Green",109990,Android,6.43,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 3,"Белый, Зеленый, Черный"
+"Смартфон Xiaomi Redmi Note 10, 64Gb, Lake Green",99990,Android,6.43,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 3,"Зеленый, Черный"
+"Смартфон Xiaomi Mi 10T, 128Gb, Cosmic Black (M2007J3SY)",229990,Android,6.67,128 Гб,64 + 13 + 5,20,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон Apple iPhone 12, 128Gb, Green (MGJF3)",464890,iOS,6.1,128 Гб,12 + 12,12,Apple,,"Зеленый, Черный"
+"Смартфон Apple iPhone 12 Pro, 128Gb, Gold (MGMM3)",579990,iOS,6.1,128 Гб,12 + 12 + 12,12,Apple,,"Золотистый, Черный"
+"Смартфон Meizu M10, 32Gb, Sea Blue (M918H)",49990,Android,6.5,32 Гб,13 + 2 + 2,8,Meizu,,"Голубой, Черный"
+"Смартфон Apple iPhone 12 Pro, 128Gb, Pacific Blue (MGMN3)",579990,iOS,6.1,128 Гб,12 + 12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 11 (2020), 128Gb, Purple (MHDM3)",,iOS,6.1,128 Гб,12 + 12,12,Apple,,Фиолетовый
+"Смартфон Apple iPhone 12 Pro, 256Gb, Pacific Blue (MGMT3)",627990,iOS,6.1,256 Гб,12 + 12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Meizu M10, 32Gb, Purplish Red (M918H)",49990,Android,6.5,32 Гб,13 + 2 + 2,8,Meizu,,"Красный, Черный"
+"Смартфон Meizu M10, 32Gb, Phantom Black (M918H)",49990,Android,6.5,32 Гб,13 + 2 + 2,8,Meizu,,Черный
+"Смартфон Apple iPhone SE (2020), 64Gb, White (MHGQ3)",224990,iOS,4.7,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,"Белый, Черный"
+"Смартфон Apple iPhone 11 (2020), 64Gb, White (MHDC3)",329900,iOS,6.1,64 Гб,12 + 12,12,Apple,,Белый
+"Смартфон Apple iPhone SE (2020), 64Gb, Red (MHGR3)",224990,iOS,4.7,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,"Красный, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 256Gb, Gold (MGDE3)",689900,iOS,6.7,256 Гб,12 + 12 + 12,12,Apple,,"Золотистый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 256Gb, Pacific Blue (MGDF3)",689900,iOS,6.7,256 Гб,12 + 12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 12 Pro, 256Gb, Gold (MGMR3)",627990,iOS,6.1,256 Гб,12 + 12 + 12,12,Apple,,"Золотистый, Черный"
+"Смартфон Xiaomi Redmi Note 9, 64Gb, Onyx Black (M2003J15SG)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Серый, Черный"
+"Смартфон Xiaomi Redmi 9T, 64Gb, Ocean Green",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Зеленый, Черный"
+"Смартфон realme 6, 4Gb, 128Gb, Comet Blue (RMX2001)",119990,Android,6.5,128 Гб,64 + 8 + 2 + 2,16,realme,Corning Gorilla Glass,Синий
+"Смартфон Apple iPhone 12 Pro, 256Gb, Silver (MGMQ3)",627990,iOS,6.1,256 Гб,12 + 12 + 12,12,Apple,,"Серебристый, Черный"
+"Смартфон Apple iPhone 12 Pro, 256Gb, Graphite (MGMP3)",627990,iOS,6.1,256 Гб,12 + 12 + 12,12,Apple,,"Графитовый, Черный"
+"Смартфон Apple iPhone 12 Pro, 128Gb, Graphite (MGMK3)",579990,iOS,6.1,128 Гб,12 + 12 + 12,12,Apple,,"Графитовый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 128Gb, Graphite (MGD73)",629900,iOS,6.7,128 Гб,12 + 12 + 12,12,Apple,,"Графитовый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 128Gb, Gold (MGD93)",629900,iOS,6.7,128 Гб,12 + 12 + 12,12,Apple,,"Золотистый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 256Gb, Graphite (MGDC3)",689900,iOS,6.7,256 Гб,12 + 12 + 12,12,Apple,,"Графитовый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 256Gb, Silver (MGDD3)",689900,iOS,6.7,256 Гб,12 + 12 + 12,12,Apple,,"Серебристый, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 128Gb, Pacific Blue (MGDA3)",629900,iOS,6.7,128 Гб,12 + 12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 12 Pro Max, 128Gb, Silver (MGD83)",639900,iOS,6.7,128 Гб,12 + 12 + 12,12,Apple,,"Серебристый, Черный"
+"Смартфон Apple iPhone 11 (2020), 128Gb, Red (MHDK3)",359990,iOS,6.1,128 Гб,12 + 12,12,Apple,,"Красный, Черный"
+"Смартфон Apple iPhone 11 (2020), 64Gb, Red (MHDD3)",329900,iOS,6.1,64 Гб,12 + 12,12,Apple,,"Красный, Черный"
+"Смартфон Poco M3, 128Gb, Cool Blue",79990,Android,6.53,128 Гб,48 + 2 + 2,8,Poco,Corning Gorilla Glass 3,"Голубой, Черный"
+"Смартфон Xiaomi Redmi 9T, 64Gb, Twilight Blue (M2010J19SG)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Синий, Черный"
+"Смартфон Apple iPhone 11 (2020), 64Gb, Green (MHDG3)",329900,iOS,6.1,64 Гб,12 + 12,12,Apple,,Зеленый
+"Смартфон Apple iPhone 11 (2020), 128Gb, White (MHDJ3)",,iOS,6.1,128 Гб,12 + 12,12,Apple,,Белый
+"Смартфон Xiaomi Redmi 9T, 64Gb, Carbon Gray (M2010J19SG)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Серый, Черный"
+"Смартфон Samsung Galaxy A12, 32Gb, Red (SM-A125F)",68900,Android,6.5,32 Гб,48 + 5 + 2 + 2,8,Samsung,,"Красный, Черный"
+"Смартфон Samsung Galaxy A12, 32Gb, Blue (SM-A125F)",68900,Android,6.5,32 Гб,48 + 5 + 2 + 2,8,Samsung,,"Синий, Черный"
+"Смартфон Samsung Galaxy A12, 32Gb, Black (SM-A125F)",68900,Android,6.5,32 Гб,48 + 5 + 2 + 2,8,Samsung,,Черный
+"Смартфон Samsung Galaxy A02s, 32Gb, Blue (SM-A025F)",62990,Android,6.5,32 Гб,13 + 2 + 2,5,Samsung,,"Синий, Черный"
+"Смартфон Samsung Galaxy A02s, 32Gb, Black (SM-A025F)",62990,Android,6.5,32 Гб,13 + 2 + 2,5,Samsung,,Черный
+"Смартфон Samsung Galaxy A02s, 32Gb, White (SM-A025F)",62990,Android,6.5,32 Гб,13 + 2 + 2,5,Samsung,,"Белый, Черный"
+"Смартфон Tecno POP 4 Pro, 16Gb, Cosmic Shine (BC3)",43990,Android,6.52,16 Гб,8,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno POP 4 Pro, 16Gb, Vacation Blue (BC3)",39900,Android,6.52,16 Гб,8,8,Tecno Mobile,,"Голубой, Черный"
+"Смартфон Tecno POP 3, 16Gb, Champagne Gold (BB2)",29900,Android,5.7,16 Гб,5,8,Tecno Mobile,,Черный
+"Смартфон Tecno POP 3, 16Gb, Sandstone Black (BB2)",28900,Android,5.7,16 Гб,5,8,Tecno Mobile,,Черный
+"Смартфон Tecno POP 4 Pro, 16Gb, Pearl Black (BC3)",38900,Android,6.52,16 Гб,8,8,Tecno Mobile,,Черный
+"Смартфон Tecno Spark 6, 128Gb, Ocean Blue (KE7)",69290,Android,6.8,128 Гб,16 + 2 + 2 + 2,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Spark 6 Go, 64Gb, Ice Jadeite (KE5j)",51500,Android,6.52,64 Гб,13 + 2,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Tecno Spark 6 Go, 64Gb, Aqua Blue (KE5j)",51500,Android,6.52,64 Гб,13 + 2,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Spark 6, 64Gb, Ocean Blue (KE7)",64900,Android,6.8,64 Гб,16 + 2 + 2 + 2,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Spark 6 Go, 32Gb, Ice Jadeite (KE5)",46090,Android,6.52,32 Гб,13 + 2,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Tecno Spark 6 Go, 32Gb, Aqua Blue (KE5)",46090,Android,6.52,32 Гб,13 + 2,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Xiaomi Redmi 9T, 64Gb, Sunset Orange",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Оранжевый, Черный"
+"Смартфон Tecno Spark 6, 64Gb, Comet Black (KE7)",64900,Android,6.8,64 Гб,16 + 2 + 2 + 2,8,Tecno Mobile,,Черный
+"Смартфон Xiaomi Redmi 9T, 128Gb, Carbon Gray",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Серый, Черный"
+"Смартфон Xiaomi Redmi 9T, 128Gb, Twilight Blue",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Синий, Черный"
+"Смартфон Xiaomi Redmi 9T, 128Gb, Ocean Green",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,8,Xiaomi,,"Зеленый, Черный"
+"Смартфон Tecno Spark 6, 128Gb, Comet Black (KE7)",69290,Android,6.8,128 Гб,16 + 2 + 2 + 2,8,Tecno Mobile,,Черный
+"Смартфон Vsmart Joy 4, 4Gb, 64Gb, Turquoise (FV441AEGNE)",59900,Android,6.53,64 Гб,16 + 8 + 2 + 2,13,Vsmart,,"Бирюзовый, Голубой, Черный"
+"Смартфон Vsmart Joy 4, 3Gb, 64Gb, Turquoise (FV441AQGNE)",56900,Android,6.53,64 Гб,16 + 8 + 2 + 2,13,Vsmart,,"Бирюзовый, Голубой, Черный"
+"Смартфон Vsmart Joy 4, 3Gb, 64Gb, Black (FV441AQBLE)",56900,Android,6.53,64 Гб,16 + 8 + 2 + 2,13,Vsmart,,Черный
+"Смартфон Vsmart Joy 4, 4Gb, 64Gb, Black (FV441AEBLE)",59900,Android,6.53,64 Гб,16 + 8 + 2 + 2,13,Vsmart,,Черный
+"Смартфон Vsmart Joy 3+, 64Gb, White (FV430AEWPE)",52990,Android,6.52,64 Гб,13 + 8 + 2,8,Vsmart,,"Белый, Черный"
+"Смартфон Vsmart Joy 3+, 64Gb, Purple (FV430AEVTE)",52990,Android,6.52,64 Гб,13 + 8 + 2,8,Vsmart,,Фиолетовый
+"Смартфон Poco M3, 128Gb, Yellow",79990,Android,6.53,128 Гб,48 + 2 + 2,8,Poco,Corning Gorilla Glass 3,"Желтый, Черный"
+"Смартфон Xiaomi Redmi Note 9, 128Gb, Forest Green (M2003J15SG)",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Зеленый, Черный"
+"Смартфон Vsmart Joy 3+, 64Gb, Black (FV430AEBLE)",59900,Android,6.52,64 Гб,13 + 8 + 2,8,Vsmart,,Черный
+"Смартфон Poco X3 NFC, 64Gb, Cobalt Blue (M2007J20CG)",102490,Android,6.67,64 Гб,64 + 13 + 2 + 2,20,Poco,Gorilla Glass 5,"Синий, Черный"
+"Смартфон Apple iPhone 11 (2020), 64Gb, Purple (MHDF3)",339800,iOS,6.1,64 Гб,12 + 12,12,Apple,,Фиолетовый
+"Смартфон Apple iPhone Xr (2020), 64Gb, White (MH6N3)",289990,iOS,6.1,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,Белый
+"Смартфон Apple iPhone 11 (2020), 64Gb, Black (MHDA3)",329900,iOS,6.1,64 Гб,12 + 12,12,Apple,,Черный
+"Смартфон Apple iPhone Xr (2020), 64Gb, Black (MH6M3)",289990,iOS,6.1,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,Черный
+"Смартфон Apple iPhone Xr (2020), 64Gb, Red (MH6P3)",289990,iOS,6.1,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,Красный
+"Смартфон Apple iPhone 12 mini, 128Gb, Black (MGE33)",394900,iOS,5.4,128 Гб,12 + 12,12,Apple,,Черный
+"Смартфон Apple iPhone 12 mini, 128Gb, Green (MGE73)",449900,iOS,5.4,128 Гб,12 + 12,12,Apple,,"Зеленый, Черный"
+"Смартфон Apple iPhone 12, 128Gb, White (MGJC3)",464990,iOS,6.1,128 Гб,12 + 12,12,Apple,,"Белый, Черный"
+"Смартфон Apple iPhone 12 mini, 128Gb, White (MGE43)",394900,iOS,5.4,128 Гб,12 + 12,12,Apple,,"Белый, Черный"
+"Смартфон Apple iPhone 12, 128Gb, Blue (MGJE3)",464890,iOS,6.1,128 Гб,12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 12, 128Gb, Black (MGJA3)",464990,iOS,6.1,128 Гб,12 + 12,12,Apple,,Черный
+"Смартфон Apple iPhone SE (2020), 64Gb, Black (MHGP3)",224990,iOS,4.7,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,Черный
+"Смартфон Apple iPhone 12 mini, 128Gb, Blue (MGE63)",394900,iOS,5.4,128 Гб,12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 12, 64Gb, White (MGJ63)",434890,iOS,6.1,64 Гб,12 + 12,12,Apple,,"Белый, Черный"
+"Смартфон Apple iPhone 12, 64Gb, Green (MGJ93)",434890,iOS,6.1,64 Гб,12 + 12,12,Apple,,"Зеленый, Черный"
+"Смартфон Apple iPhone 12, 128Gb, Red (MGJD3)",464890,iOS,6.1,128 Гб,12 + 12,12,Apple,,"Красный, Черный"
+"Смартфон Apple iPhone 12, 64Gb, Red (MGJ73)",434890,iOS,6.1,64 Гб,12 + 12,12,Apple,,"Красный, Черный"
+"Смартфон Apple iPhone 12, 64Gb, Blue (MGJ83)",434890,iOS,6.1,64 Гб,12 + 12,12,Apple,,"Синий, Черный"
+"Смартфон Apple iPhone 12, 64Gb, Black (MGJ53)",434890,iOS,6.1,64 Гб,12 + 12,12,Apple,,Черный
+"Смартфон realme 6 Pro, 128Gb, Lightning Red (RMX2063)",158890,Android,6.6,128 Гб,64 + 12 + 8 + 2,16 + 8,realme,Corning Gorilla Glass 5,"Красный, Черный"
+"Смартфон realme 7, 8Gb, 128Gb, Mist White (RMX2151)",138890,Android,6.5,128 Гб,64 + 8 + 2 + 2,16,realme,Corning Gorilla Glass,"Белый, Черный"
+"Смартфон OPPO Reno4 Lite, 8Gb, Magic Blue (CPH2125)",129900,Android,6.43,128 Гб,48 + 8 + 2 + 2,16 + 2,OPPO,,Бирюзовый
+"Смартфон OPPO Reno4 Lite, 8Gb, Black (CPH2125)",132900,Android,6.43,128 Гб,48 + 8 + 2 + 2,16 + 2,OPPO,,Черный
+"Смартфон Xiaomi Redmi Note 9, 64Gb, Forest Green (M2003J15SG)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Зеленый, Черный"
+"Смартфон Tecno Spark 6 Go, 32Gb, Ice Jadeite (KE5) + чехол",46090,Android,6.52,32 Гб,13 + 2,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Tecno Spark 6 Go, 64Gb, Aqua Blue (KE5j) + чехол",58900,Android,6.52,64 Гб,13 + 2,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Spark 6 Go, 32Gb, Aqua Blue (KE5) + чехол",46090,Android,6.52,32 Гб,13 + 2,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Xiaomi Redmi Note 9, 64Gb, Onyx Black (M2003J15SS)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон Tecno POP 4, 32Gb, Dawn Blue (BC2)",36200,Android,6,32 Гб,,8,Tecno Mobile,,"Синий, Фиолетовый, Черный"
+"Смартфон Tecno POP 4, 32Gb, Ice Lake Green (BC2)",36200,Android,6,32 Гб,,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Tecno POP 2F, 16Gb, Dawn Blue (B1f)",29990,Android,5.5,16 Гб,5,8,Tecno Mobile,,"Синий, Фиолетовый, Черный"
+"Смартфон Tecno POP 2F, 16Gb, Champagne Gold (B1f)",29990,Android,5.5,16 Гб,5,8,Tecno Mobile,,"Золотистый, Черный"
+"Смартфон Tecno POP 2F, 16Gb, Midnight Black (B1f)",29990,Android,5.5,16 Гб,5,8,Tecno Mobile,,Черный
+"Смартфон Tecno Spark 5 Pro, 128Gb, Seabed Blue (KD7)",72900,Android,6.6,128 Гб,16 + 2 + 2,8,Tecno Mobile,,"Зеленый, Синий, Черный"
+"Смартфон Tecno Spark 5 Pro, 128Gb, Ice Jadeite (KD7)",72900,Android,6.6,128 Гб,16 + 2 + 2,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Poco X3 NFC, 128Gb, Shadow Gray (M2007J20CG)",129990,Android,6.67,128 Гб,64 + 13 + 2 + 2,20,Poco,Gorilla Glass 5,Черный
+"Смартфон Poco X3 NFC, 64Gb, Shadow Gray (M2007J20CG)",102490,Android,6.67,64 Гб,64 + 13 + 2 + 2,20,Poco,Gorilla Glass 5,Черный
+"Смартфон Poco X3 NFC, 128Gb, Cobalt Blue (M2007J20CG)",129990,Android,6.67,128 Гб,64 + 13 + 2 + 2,20,Poco,Gorilla Glass 5,"Синий, Черный"
+"Смартфон Xiaomi Redmi 9C, 64Gb, Sunrise Orange (M2006C3MG)",64990,Android,6.53,64 Гб,13 + 2 + 2,5,Xiaomi,,"Оранжевый, Черный"
+"Смартфон OPPO A52, 64Gb, Stream White (CPH2069)",79900,Android,6.5,64 Гб,12 + 8 + 2 + 2,16,OPPO,,Бежевый
+"Смартфон Xiaomi Redmi 9C, 64Gb, Twilight Blue (M2006C3MG)",64990,Android,6.53,64 Гб,13 + 2 + 2,5,Xiaomi,,Голубой
+"Смартфон Xiaomi Redmi Note 9, 128Gb, Onyx Black",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон OPPO A52, 64Gb, Twilight Black (CPH2069)",79900,Android,6.5,64 Гб,12 + 8 + 2 + 2,16,OPPO,,Черный
+"Смартфон Xiaomi Redmi 9C, 64Gb, Midnight Gray (M2006C3MG)",64990,Android,6.53,64 Гб,13 + 2 + 2,5,Xiaomi,,Черный
+"Смартфон Tecno Spark 5 Pro, 64Gb, Spark Orange (KD7)",62900,Android,6.6,64 Гб,16 + 2 + 2,8,Tecno Mobile,,"Оранжевый, Черный"
+"Смартфон Tecno Spark 5 Pro, 64Gb, Seabed Blue (KD7)",62900,Android,6.6,64 Гб,16 + 2 + 2,8,Tecno Mobile,,"Зеленый, Синий, Черный"
+"Смартфон Tecno Spark 5 Pro, 64Gb, Ice Jadeite (KD7)",62900,Android,6.6,64 Гб,16 + 2 + 2,8,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон realme C11, 32Gb, Green (RMX2185)",52890,Android,6.5,32 Гб,13 + 2,5,realme,Corning Gorilla Glass,"Зеленый, Черный"
+"Смартфон realme 6 Pro, 128Gb, Blue (RMX2063)",158890,Android,6.6,128 Гб,64 + 12 + 8 + 2,16 + 8,realme,Corning Gorilla Glass 5,"Синий, Черный"
+"Смартфон Tecno Camon 15, 64Gb, Fascinating Purple (CD7)",59990,Android,6.6,64 Гб,48 + 2 + 2,16,Tecno Mobile,,"Желтый, Зеленый, Черный"
+"Смартфон Tecno Camon 15, 64Gb, Shoal Gold (CD7)",74900,Android,6.6,64 Гб,48 + 2 + 2,16,Tecno Mobile,,"Желтый, Зеленый, Черный"
+"Смартфон Tecno Camon 15, 64Gb, Dark Jade (CD7)",59990,Android,6.6,64 Гб,48 + 2 + 2,16,Tecno Mobile,,"Зеленый, Черный"
+"Смартфон Xiaomi Redmi 9, 32Gb, Sunset Purple (M2004J19G)",64990,Android,6.53,32 Гб,13 + 8 + 5 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Синий, Фиолетовый, Черный"
+"Смартфон Xiaomi Redmi 9, 32Gb, Ocean Green (M2004J19G)",64990,Android,6.53,32 Гб,13 + 8 + 5 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Зеленый, Черный"
+"Смартфон Apple iPhone SE (2020), 64Gb, Red",224990,iOS,4.7,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,"Красный, Черный"
+"Смартфон Xiaomi Redmi Note 9, 128Gb, Midnight Grey (M2003J15SS)",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Серый, Черный"
+"Смартфон Xiaomi Redmi 9A, 32Gb, Sky Blue (M2006C3LG)",54990,Android,6.53,32 Гб,13,5,Xiaomi,,"Синий, Черный"
+"Смартфон Xiaomi Redmi 9A, 32Gb, Granite Grey (M2006C3LG)",54990,Android,6.53,32 Гб,13,5,Xiaomi,,"Серый, Черный"
+"Смартфон Xiaomi Redmi 9, 64Gb, Sunset Purple (M2004J19G)",69990,Android,6.53,64 Гб,13 + 8 + 5 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Синий, Фиолетовый, Черный"
+"Смартфон Xiaomi Redmi Note 9 Pro, 64Gb, Interstellar Grey (M2003J6B2G)",119990,Android,6.67,64 Гб,64 + 8 + 5 + 2,16,Xiaomi,Corning Gorilla Glass 5,"Серый, Черный"
+"Смартфон Xiaomi Redmi 9, 64Gb, Ocean Green (M2004J19G)",69990,Android,6.53,64 Гб,13 + 8 + 5 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Зеленый, Черный"
+"Смартфон Xiaomi Redmi Note 9, 128Gb, Polar White (M2003J15SS)",88790,Android,6.53,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Белый, Голубой, Фиолетовый, Черный"
+"Смартфон realme 6, 4Gb, 128Gb, Comet Blue (RMX2001/NFC)",119990,Android,6.5,128 Гб,64 + 8 + 2 + 2,16,realme,Corning Gorilla Glass,Синий
+"Смартфон realme 6, 4Gb, 128Gb, Comet White (RMX2001)",119990,Android,6.5,128 Гб,64 + 8 + 2 + 2,16,realme,Corning Gorilla Glass,Белый
+"Смартфон Apple iPhone SE (2020), 128Gb, Black",254990,iOS,4.7,128 Гб,12,7,Apple,Стекло с олеофобным покрытием,Черный
+"Смартфон Xiaomi Redmi Note 9, 64Gb, Polar White (M2003J15SS)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Белый, Голубой, Фиолетовый, Черный"
+"Смартфон OPPO A31, 64Gb, White (CPH2015)",74900,Android,6.5,64 Гб,12 + 2 + 2,8,OPPO,,"Белый, Зеленый, Черный"
+"Смартфон OPPO A31, 64Gb, Green (CPH2015)",66900,Android,6.5,64 Гб,12 + 2 + 2,8,OPPO,,"Зеленый, Черный"
+"Смартфон OPPO A31, 64Gb, Black (CPH2015)",66900,Android,6.5,64 Гб,12 + 2 + 2,8,OPPO,,Черный
+"Смартфон Xiaomi Redmi Note 9 Pro, 64Gb, Tropical Green (M2003J6B2G)",119990,Android,6.67,64 Гб,64 + 8 + 5 + 2,16,Xiaomi,Corning Gorilla Glass 5,"Зеленый, Черный"
+"Смартфон Xiaomi Redmi Note 9 Pro, 64Gb, Glacier White (M2003J6B2G)",119990,Android,6.67,64 Гб,64 + 8 + 5 + 2,16,Xiaomi,Corning Gorilla Glass 5,"Белый, Серебристый, Черный"
+"Смартфон Xiaomi Redmi Note 9, 64Gb, Midnight Grey (M2003J15SS)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Серый, Черный"
+"Смартфон Xiaomi Redmi Note 9, 64Gb, Forest Green (M2003J15SS)",79990,Android,6.53,64 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Зеленый, Черный"
+"Смартфон Xiaomi Redmi Note 9, 128Gb, Forest Green",89990,Android,6.53,128 Гб,48 + 8 + 2 + 2,13,Xiaomi,Corning Gorilla Glass 5,"Зеленый, Черный"
+"Смартфон Xiaomi Mi 10, 256Gb, Coral Green (M2001J2G)",359990,Android,6.67,256 Гб,108 + 13 + 2 + 2,20,Xiaomi,Corning Gorilla Glass 5,"Зеленый, Черный"
+"Смартфон Xiaomi Redmi Note 9S, 128Gb, Aurora Blue",109990,Android,6.67,128 Гб,48 + 8 + 5 + 2,16,Xiaomi,Gorilla Glass 5,Голубой
+"Смартфон Xiaomi Redmi Note 9S, 64Gb, Aurora Blue",88900,Android,6.67,64 Гб,48 + 8 + 5 + 2,16,Xiaomi,Gorilla Glass 5,Голубой
+"Смартфон Apple iPhone SE (2020), 64Gb, White",224990,iOS,4.7,64 Гб,12,7,Apple,Стекло с олеофобным покрытием,Белый
+"Смартфон Xiaomi Redmi Note 9S, 64Gb, Glacier White",88900,Android,6.67,64 Гб,48 + 8 + 5 + 2,16,Xiaomi,Gorilla Glass 5,Белый
+"Смартфон Xiaomi Redmi Note 9S, 64Gb, Interstellar Grey",88900,Android,6.67,64 Гб,48 + 8 + 5 + 2,16,Xiaomi,Gorilla Glass 5,Серый
+"Смартфон realme 5 Pro, 4Gb/128Gb, Crystal Green (RMX1971)",102000,Android,6.3,128 Гб,48 + 8 + 2 + 2,16,realme,,"Зеленый, Черный"
+"Смартфон Tecno Spark 4, 2Gb/32Gb, Vacation Blue (KC8)",53490,Android,6.52,32 Гб,13 + 2 + 0.08,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Spark 4, 2Gb/32Gb, Royal Purple (KC8)",53490,Android,6.52,32 Гб,13 + 2 + 0.08,8,Tecno Mobile,,"Фиолетовый, Черный"
+"Смартфон Tecno Spark 4, 32Gb, Royal Purple (KC2)",59900,Android,6.52,32 Гб,13 + 2 + 0.08,8,Tecno Mobile,,"Фиолетовый, Черный"
+"Смартфон realme 5 Pro, 4Gb/128Gb, Sparkling Blue (RMX1971)",104890,Android,6.3,128 Гб,48 + 8 + 2 + 2,16,realme,,"Голубой, Черный"
+"Смартфон Tecno Spark 4, 32Gb, Vacation Blue (KC2)",59900,Android,6.52,32 Гб,13 + 2 + 0.08,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Camon 12 Air, 32Gb, Alpenglow Gold (CC6)",64900,Android,6.55,32 Гб,16 + 5 + 2,8,Tecno Mobile,,"Золотистый, Черный"
+"Смартфон Tecno Camon 12 Air, 32Gb, Bay Blue (CC6)",64900,Android,6.55,32 Гб,,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Camon 12, 64Gb, Sky Cyan (CC7)",72900,Android,6.52,64 Гб,16 + 8 + 2,16,Tecno Mobile,,"Бежевый, Голубой"
+"Смартфон Tecno Camon 12, 64Gb, Dawn Blue (CC7)",72900,Android,6.52,64 Гб,,16,Tecno Mobile,,"Синий, Фиолетовый"
+"Смартфон Tecno Camon 12, 64Gb, Dark Jade (CC7)",72900,Android,6.52,64 Гб,16 + 8 + 2,16,Tecno Mobile,,"Синий, Черный"
+"Смартфон Apple iPhone 11, 64Gb, Red",339900,iOS,6.1,64 Гб,12 + 12,12,Apple,,"Красный, Черный"
+"Смартфон Apple iPhone 11, 64Gb, Black",339890,iOS,6.1,64 Гб,12 + 12,12,Apple,,Черный
+"Смартфон Tecno Pouvoir 3 Air, 16Gb, Aqua Blue (LC6a)",39900,Android,6,16 Гб,8,8,Tecno Mobile,,"Синий, Черный"
+"Смартфон Tecno Pouvoir 3 Air, 16Gb, Champagne Gold (LC6a)",39900,Android,6,16 Гб,8,8,Tecno Mobile,,"Золотистый, Черный"
+"Смартфон Tecno Pouvoir 3 Air, 16Gb, Midnight Black (LC6a)",39900,Android,6,16 Гб,8,8,Tecno Mobile,,Черный
+"Смартфон Meizu Note 9, 64Gb, Blue (M923H)",69900,Android,6.2,64 Гб,48 + 5,20,Meizu,2.5D,Синий
+"Смартфон Meizu Note 9, 64Gb, Black (M923H)",69900,Android,6.2,64 Гб,48 + 5,20,Meizu,2.5D,Черный
+"Смартфон TP-Link Neffos X20, 32Gb, Black (TP7071A55RU)",57900,Android,6.26,32 Гб,13 + 5,8,TP-Link Neffos,,Черный
+"Смартфон Tecno POP 2 Power, 16Gb, Champagne Gold (B1p)",29900,Android,5.5,16 Гб,8,5,Tecno Mobile,,"Золотистый, Черный"
+"Смартфон Tecno POP 2 Power, 16Gb, City Blue (B1p)",29900,Android,5.5,16 Гб,8,5,Tecno Mobile,,"Голубой, Черный"
+"Смартфон Gionee S8s, 32Gb, Black",39900,Android,5.86,32 Гб,13 + 5,8,Gionee,,Черный
+"Смартфон Gionee S8s, 32Gb, Gold",39900,Android,5.86,32 Гб,13 + 5,8,Gionee,,"Золотистый, Черный"
+"Смартфон Gionee M6 Mini, 16Gb, Black",28900,Android,5.45,16 Гб,8,5,Gionee,,Черный
+"Смартфон Samsung Galaxy S10+, 128Gb, Green (SM-G975F)",398900,Android,6.4,128 Гб,,10 + 8,Samsung,Изогнутое с двух сторон стекло Gorilla Glass 6,"Зеленый, Серебристый, Черный"
+"Смартфон Xiaomi Mi MIX 3, 128Gb, Black",247900,Android,6.39,128 Гб,12 + 12,10 + 8,Xiaomi,Corning Gorilla Glass 4,Черный
+"Смартфон Xiaomi Mi8 Pro, 128Gb, Transparent Titanium",229900,Android,6.21,128 Гб,12 + 12,20,Xiaomi,Corning Gorilla Glass 5,Черный
+"Смартфон TP-Link Neffos C5s, 8Gb, Gray (TP704A21RU)",27900,Android,5,8 Гб,,2,TP-Link Neffos,,"Серый, Черный"
+"Смартфон Apple iPhone Xs Max, 256Gb, Gold",499900,iOS,6.5,256 Гб,12 + 12,7,Apple,Стекло с олеофобным покрытием,"Золотистый, Черный"
+"Смартфон Xiaomi Mi8, 64Gb, White",174900,Android,6.21,64 Гб,12 + 12,20,Xiaomi,,"Белый, Серебристый, Черный"
+"Смартфон Xiaomi Mi8, 128Gb, Blue",184990,Android,6.21,128 Гб,12 + 12,20,Xiaomi,,"Синий, Черный"
+"Смартфон Apple iPhone Xs Max, 64Gb, Gold",399900,iOS,6.5,64 Гб,12 + 12,7,Apple,Стекло с олеофобным покрытием,"Золотистый, Черный"
+"Смартфон Apple iPhone Xs Max, 64Gb, Silver",399900,iOS,6.5,64 Гб,,7,Apple,Стекло с олеофобным покрытием,"Серебристый, Черный"
+"Смартфон Apple iPhone Xs Max, 256Gb, Space Gray",499900,iOS,6.5,256 Гб,12 + 12,7,Apple,Стекло с олеофобным покрытием,"Серый, Черный"
+"Смартфон Apple iPhone Xs, 256Gb, Space Gray",399900,iOS,5.8,256 Гб,12 + 12,7,Apple,Стекло с олеофобным покрытием,"Серый, Черный"
+"Смартфон Apple iPhone Xs, 256Gb, Silver",399900,iOS,5.8,256 Гб,12 + 12,7,Apple,Стекло с олеофобным покрытием,"Серебристый, Черный"
+"Смартфон Xiaomi Pocophone F1, 128Gb, Graphite Black",186900,Android,6.18,128 Гб,12 + 5,20,Xiaomi,Corning Gorilla Glass,Черный
+"Смартфон Xiaomi Mi8, 64Gb, Blue",174900,Android,6.21,64 Гб,12 + 12,20,Xiaomi,,"Синий, Черный"
+"Смартфон TP-Link Neffos C9A, 16Gb, Moonlight Silvery (TP706A64RU)",44900,Android,5.45,16 Гб,13,5,TP-Link Neffos,2.5D,"Белый, Серебристый"
+"Смартфон TP-Link Neffos C9A, 16Gb, Cloudy Gray (TP706A24RU)",44900,Android,5.45,16 Гб,,5,TP-Link Neffos,2.5D,"Серебристый, Черный"
+"Смартфон Xiaomi Mi A2, 128Gb, Blue",99990,Android,5.99,128 Гб,,20,Xiaomi,Corning Gorilla Glass 5,"Белый, Голубой"
+"Смартфон Xiaomi Mi A2, 64Gb, Gold",64900,Android,5.99,64 Гб,12 + 20,20,Xiaomi,Corning Gorilla Glass 5,"Белый, Золотистый"
+"Смартфон Xiaomi Mi8, 128Gb, Black",189900,Android,6.21,128 Гб,12 + 12,20,Xiaomi,,Черный
+"Смартфон Xiaomi Mi A2, 32Gb, Gold",107900,Android,5.99,32 Гб,12 + 20,20,Xiaomi,Corning Gorilla Glass 5,"Белый, Золотистый"
+"Смартфон Xiaomi Mi8, 64Gb, Black",174900,Android,6.21,64 Гб,12 + 12,20,Xiaomi,,Черный
+"Смартфон OnePlus 6, 64Gb, Mirror Black (A6003)",199900,Android,6.28,64 Гб,16 + 20,16,OnePlus,2.5D стекло Corning Gorilla Glass 5,Черный
+"Смартфон TP-Link Neffos N1, 64Gb, Black (TP908A5ARU)",89900,Android,5.5,64 Гб,12 + 12,8,TP-Link Neffos,2.5D стекло с технологией Corning Gorilla Glass 3,Черный
+"Смартфон TP-Link Neffos X1 Max, 32Gb, Gold (TP903A46KZ)",64900,Android,5.5,32 Гб,13,5,TP-Link Neffos,2.5D стекло с олеофобным покрытием,"Белый, Золотистый"
+"Смартфон Apple iPhone 8, 256Gb, Gold",339400,iOS,4.7,256 Гб,,7,Apple,"Олеофобное покрытие, устойчивое к появлению следов от пальцев","Белый, Золотистый"
+"Смартфон Apple iPhone 6S, 32Gb, Rose Gold",159700,iOS,4.7,32 Гб,12,5,Apple,,Розовый
+"Смартфон Xiaomi Redmi 9, 64Gb, Carbon Grey (M2004J19G)",,Android,6.53,64 Гб,13 + 8 + 5 + 2,8,Xiaomi,Corning Gorilla Glass 3,"Серый, Черный"
+"Смартфон Samsung Galaxy A72, 256Gb, Violet (SM-A725F)",199100,Android,6.7,256 Гб,64 + 12 + 8 + 5,32,Samsung,,"Фиолетовый, Черный"
